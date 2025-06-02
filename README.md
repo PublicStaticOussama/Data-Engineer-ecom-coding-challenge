@@ -7,7 +7,7 @@ This project is a technical solution to the **YouCan Data Engineer Challenge**, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/PublicStaticOussama/Data-Engineer-ecom-coding-challenge.git
 cd <your-repo>
 ```
 
@@ -81,4 +81,4 @@ This challenge covers:
 ---
 
 
-**Coding Challenge Data Engineer application by \[Your Full Name]**
+**Coding Challenge Data Engineer application by Wahbi Oussama**
