@@ -8,7 +8,7 @@ This project is a technical solution to the **YouCan Data Engineer Challenge**, 
 
 ```bash
 git clone https://github.com/PublicStaticOussama/Data-Engineer-ecom-coding-challenge.git
-cd <your-repo>
+cd Data-Engineer-ecom-coding-challenge
 ```
 
 ### 2. Launch Docker environment

@@ -48,7 +48,7 @@ products(product_id, category, price)
 ![Alt Clusters visualized](./imgs/779d04f9-7cff-4c93-b611-17184e65d8f7.png)
 
 * **Dimension Reduction**: Reduce OpenAI embedding vectors to a lower dimension for efficient clustering.
-* **Clustering**: Group users based on their reduced-dimension vectors.
+* **Clustering**: Group users based on the average of all the embeddings of their search queries reduced to a lower dimensional vector.
 * **Cluster Naming**: Use `rank_cluster_words()` to extract the most frequent words per cluster, then feed top keywords to an LLM to generate descriptive segment names.
 
 ![Alt Most frequent words in each cluster](./imgs/Screenshot_2025-06-02_132707.png)
